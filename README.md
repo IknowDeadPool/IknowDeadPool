@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Balaji Vellaluru! 
 
-🌟 **Passionate Software Engineer | Full-Stack Developer | Cloud Enthusiast**
+🌟 **Passionate Software Engineer | Full-Stack Developer | Cloud Enthusiast | ML Enthusiast**
 
 ---
 
