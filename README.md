@@ -34,7 +34,7 @@ I am a dedicated Software Engineer with a strong foundation in **full-stack deve
 📍 *University of Illinois Chicago (2024 – Present)*  
 - Built a **3D web app** serving 2,000+ users, enabling interaction, drawing, and labeling of anatomical models using **Three.js** and **Node.js**.  
 - Implemented voice input and search functionalities, optimizing response times by 40%.  
-- Ensured secure access using **Single Sign-On (SSO)** and deployed the app on **Azure** servers.
+- Ensured secure access using **Single Sign-On (SSO)** and deployed the app on **UIC** servers.
 
 ### **Software Developer Intern**  
 📍 *Spookfish Innovations (2021)*  
