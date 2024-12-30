@@ -71,4 +71,4 @@ I am a dedicated Software Engineer with a strong foundation in **full-stack deve
 ---
 
 ## 🌟 Fun Fact  
-"When I'm not coding, you'll find me experimenting with 3D graphics, working on photogrammetry models, or exploring new AI trends!"  
+"I might not know a billion things or a billion ways, but I know just the things that get work done !"  
