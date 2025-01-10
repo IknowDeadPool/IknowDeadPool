@@ -35,7 +35,7 @@ I am a dedicated Software Engineer with a strong foundation in **full-stack deve
 -  Designed and deployed a scalable, responsive **3D web** application serving **2,000+ active users** within UIC, enabling
 interactive features such as **drawing**, **labeling**, and **CRUD** operations for anatomical models.  
 - Implemented voice input and search functionalities for efficient navigation of 3D models and labels, enhancing user
-experience and accessibility.  
+experience and accessibility using MVC Architecture.  
 -  Developed and enforced secure **role-based access control**, ensuring students had view-only access while faculty could
 upload, edit, and label models, improving security and operational efficiency.
 -  Optimized performance by integrating lazy loading and **asynchronous calls**, reducing 3D model loading times by **40%** and
