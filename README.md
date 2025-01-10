@@ -32,9 +32,18 @@ I am a dedicated Software Engineer with a strong foundation in **full-stack deve
 
 ### **Software Engineer**  
 📍 *University of Illinois Chicago (2024 – Present)*  
-- Built a **3D web app** serving 2,000+ users, enabling interaction, drawing, and labeling of anatomical models using **Three.js** and **Node.js**.  
-- Implemented voice input and search functionalities, optimizing response times by 40%.  
-- Ensured secure access using **Single Sign-On (SSO)** and deployed the app on **UIC** servers.
+-  Designed and deployed a scalable, responsive **3D web** application serving **2,000+ active users** within UIC, enabling
+interactive features such as **drawing**, **labeling**, and **CRUD** operations for anatomical models.  
+- Implemented voice input and search functionalities for efficient navigation of 3D models and labels, enhancing user
+experience and accessibility.  
+-  Developed and enforced secure **role-based access control**, ensuring students had view-only access while faculty could
+upload, edit, and label models, improving security and operational efficiency.
+-  Optimized performance by integrating lazy loading and **asynchronous calls**, reducing 3D model loading times by **40%** and
+enhancing application responsiveness.
+-  Deployed the application on **UIC’s Red Hat virtual server** with Single Sign-On (SSO) integration, ensuring secure,
+seamless access for students and faculty. Collaborated with multidisciplinary teams to gather requirements, troubleshoot
+issues, and deliver a user-friendly product that aligned with academic goals.
+-  **Technologies**: HTML, CSS, JavaScript, Node.js, Three.js, RESTFUL API, Linux, MongoDB, Python, OpenCV.
 
 ### **Software Developer Intern**  
 📍 *Spookfish Innovations (2021)*  
