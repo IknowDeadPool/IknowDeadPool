@@ -71,4 +71,4 @@ I am a dedicated Software Engineer with a strong foundation in **full-stack deve
 ---
 
 ## 🌟 Fun Fact  
-"I might not know a billion things or a billion ways, but I know just the things that get work done !"  
+"I'd say, I am a Jack of All Trades. But, Masters's in Computer Science!!😂"  
