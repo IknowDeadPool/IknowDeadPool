@@ -47,9 +47,12 @@ issues, and deliver a user-friendly product that aligned with academic goals.
 
 ### **Software Developer Intern**  
 📍 *Spookfish Innovations (2021)*  
-- Designed a visual inspection system using **Computer Vision**, achieving 85% defect detection accuracy.  
-- Enhanced sorting efficiency by integrating depth maps and laser triangulation.  
-- Reduced quality check times by 30% with innovative **segregation techniques** using Python and OpenCV.
+- Designed a a visual inspection software system, achieving **85% accuracy** in identifying tablet defects, surpassing previous
+methods by 20%, significantly boosting quality control measures as a software engineer- Computer Vision.  
+- Implemented depth map based defect detection, laser triangulation, improving sorting accuracy to **97%** in classifying the
+products as defective or non-defective, which lead to significant improvement of inspection precision and product quality.  
+- Pioneered tablet segregation techniques with **Convexity Defects**, SIFT, **Hough Transformations** and pattern matching, **OpenCV** in **Python and C++**,
+boosting inspection accuracy. Reduced quality check time from 5 hours to 3.5 hours for each batch.
 
 ---
 
