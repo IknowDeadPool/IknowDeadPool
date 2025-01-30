@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Balaji Vellaluru! 
+# 👋 Hello, I'm Balaji Kasyap Vellaluru! 
 
 🌟 **Passionate Software Engineer | Full-Stack Developer | Cloud Enthusiast | ML Enthusiast**
 
