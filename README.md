@@ -32,7 +32,7 @@ I am a dedicated Software Engineer with a strong foundation in **full-stack deve
 
 ### **Software Engineer**  
 📍 *University of Illinois Chicago (2024 – Present)*  
--  Designed and deployed a scalable, responsive **3D web** application serving **2,000+ active users** within UIC, enabling
+-  Designed and deployed a scalable, responsive **3D web** application serving **6,500+ active users** within UIC, enabling
 interactive features such as **drawing**, **labeling**, and **CRUD** operations for anatomical models.  
 - Implemented voice input and search functionalities for efficient navigation of 3D models and labels, enhancing user
 experience and accessibility using MVC Architecture.  
