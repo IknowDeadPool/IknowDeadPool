@@ -45,7 +45,7 @@ seamless access for students and faculty. Collaborated with multidisciplinary te
 issues, and deliver a user-friendly product that aligned with academic goals.
 -  **Technologies**: HTML, CSS, JavaScript, Node.js, Three.js, RESTFUL API, Linux, MongoDB, Python, OpenCV.
 
-### **Software Developer Intern**  
+### **Software Developer**  
 📍 *Spookfish Innovations (2021)*  
 - Designed a a visual inspection software system, achieving **85% accuracy** in identifying tablet defects, surpassing previous
 methods by 20%, significantly boosting quality control measures as a software engineer- Computer Vision.  
