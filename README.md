@@ -84,3 +84,8 @@ boosting inspection accuracy. Reduced quality check time from 5 hours to 3.5 hou
 
 ## 🌟 Fun Fact  
 "I'd say, I am a Jack of All Trades. But, Masters's in Computer Science!!😂"  
+
+
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IknowDeadPool&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
